@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/iremaltunay55-deneme3-badge.png)](https://mseep.ai/app/iremaltunay55-deneme3)
+
 # Weather MCP Server
 
 Bu proje, Model Context Protocol (MCP) kullanarak hava durumu bilgisi sağlayan bir FastAPI uygulamasıdır.
